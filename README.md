@@ -55,7 +55,7 @@ marks	INT	Marks (0–100)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/student-management-system.git
+git clone https://github.com/kjuhi-18/student-management-system.git
 cd student-management-system
 
 2️⃣ Create Virtual Environment & Install Dependencies
