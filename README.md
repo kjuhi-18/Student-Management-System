@@ -6,11 +6,17 @@ This project allows an Admin to securely log in and manage student records (CRUD
 ✨ Features
 
 ✅ Admin Login – Secure login system for administrators
+
 ✅ Add Student – Insert student details into the database
+
 ✅ View All Students – Display all student records in a table
+
 ✅ Update Marks – Modify a student’s marks
+
 ✅ Delete Student – Remove a student record
+
 ✅ Search Student – Find a student by name
+
 ✅ Logout – End admin session
 
 🛠️ Tech Stack
