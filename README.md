@@ -28,26 +28,42 @@ Backend: MySQL
 Language: Python 3
 
 📂 Database Schema
+
 admin Table
+
 Column	Type	Description
+
 username	VARCHAR	Admin username
+
 password	VARCHAR	Admin password (store hashed for security)
+
 students Table
+
 Column	Type	Description
+
 id	INT (PK)	Auto-increment ID
+
 name	VARCHAR	Student’s name
+
 age	INT	Student’s age
+
 course	VARCHAR	Student’s course
+
 marks	INT	Marks (0–100)
+
 🚀 Installation & Setup
+
 1️⃣ Clone the Repository
+
 git clone https://github.com/your-username/student-management-system.git
 cd student-management-system
 
 2️⃣ Create Virtual Environment & Install Dependencies
+
 pip install -r requirements.txt
 
 3️⃣ Setup MySQL Database
+
 CREATE DATABASE student_db;
 
 USE student_db;
